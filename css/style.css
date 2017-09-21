@@ -31,8 +31,10 @@ html {
     background-attachment: fixed;
     background-size: cover;
     content: "";
+    /*
     -webkit-filter: blur(5px);
     filter: blur(5px);
+    */
 }
 
 .glass h1 {
