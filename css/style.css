@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Megrim&text=CAT);
 html {
-    background-image: url("https://infiniit.co/macOS.jpg");
+    background-image: url("/macOS.jpg");
     background-position: center bottom;
     background-attachment: fixed;
     background-size: cover;
@@ -26,7 +26,7 @@ html {
     z-index: -1;
     width: 100%;
     height: 100%;
-    background-image: url("https://infiniit.co/macOSblur.jpg");
+    background-image: url("/macOSblur.jpg");
     background-position: center bottom;
     background-attachment: fixed;
     background-size: cover;
