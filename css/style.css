@@ -120,7 +120,8 @@ img:hover {
 table {
 	width: 100%;
 	text-align: center;
-	border-collapse: collapse;
+    border-collapse: collapse;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 td, th {
 	padding: 7px;
@@ -131,3 +132,7 @@ td, th {
 }
 #ltu_logo {transform: translateY(30%)}
 #logo_td {transform: translateY(-21%)}
+
+caption {
+    padding: 5px;
+}
